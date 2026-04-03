@@ -1,0 +1,15 @@
+{
+  "name": "kimi-plugin-cc",
+  "version": "0.1.0",
+  "description": "Kimi plugin for Claude Code — task delegation via kimi-cli Wire IPC",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "bin": {
+    "kimi-companion": "./scripts/kimi-companion.mjs"
+  }
+}

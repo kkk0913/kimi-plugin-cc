@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(npm install:*)",
+      "Bash(node scripts/kimi-companion.mjs)",
+      "Bash(node scripts/kimi-companion.mjs setup)",
+      "Bash(node scripts/kimi-companion.mjs status)",
+      "Bash(node scripts/kimi-companion.mjs task)",
+      "Bash(kimi --help)",
+      "Bash(kimi-cli --help)",
+      "Bash(kimi acp:*)",
+      "Bash(kimi info:*)",
+      "Bash(kimi --wire --help)",
+      "Bash(kimi --print --output-format stream-json -p \"say hi in one word\")",
+      "Bash(curl -s https://moonshotai.github.io/kimi-cli/llms.txt)",
+      "Bash(curl:*)",
+      "Bash(pkill -f \"app-server-broker.mjs\")",
+      "Bash(rm -f /tmp/kimi-plugin-cc/*/broker.sock /tmp/kimi-plugin-cc/*/broker.pid)",
+      "Bash(node:*)",
+      "Bash(mkdir -p /Users/jikai1.zhang/.claude/plugins/cache/kimi-cc/kimi/0.1.0)",
+      "Bash(rsync -a --exclude node_modules --exclude .claude --exclude pnpm-lock.yaml /Users/jikai1.zhang/Documents/claude/kimi-plugin-cc/ /Users/jikai1.zhang/.claude/plugins/cache/kimi-cc/kimi/0.1.0/)",
+      "Bash(python3 -m json.tool)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\({k:type\\(v\\).__name__ for k,v in d.items\\(\\)}, indent=2\\)\\)\")",
+      "Bash(rsync -a --exclude node_modules --exclude .claude --exclude pnpm-lock.yaml /Users/jikai1.zhang/.claude/plugins/cache/kimi-cc/kimi/0.1.0/ /Users/jikai1.zhang/Documents/claude/kimi-plugin-cc/)",
+      "Bash(mkdir -p /Users/jikai1.zhang/.claude/plugins/marketplaces/kimi-cc/.claude-plugin)",
+      "Bash(mkdir -p /Users/jikai1.zhang/.claude/plugins/marketplaces/kimi-cc/plugins/kimi)",
+      "Bash(rsync -a --exclude node_modules --exclude .claude --exclude pnpm-lock.yaml /Users/jikai1.zhang/.claude/plugins/cache/kimi-cc/kimi/0.1.0/ /Users/jikai1.zhang/.claude/plugins/marketplaces/kimi-cc/plugins/kimi/)",
+      "Bash(skillet search:*)",
+      "Bash(gh search:*)"
+    ]
+  }
+}

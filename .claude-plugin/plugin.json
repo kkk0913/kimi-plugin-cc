@@ -1,0 +1,8 @@
+{
+  "name": "kimi",
+  "version": "0.1.0",
+  "description": "Delegate code review and tasks from Claude Code to Kimi via kimi-cli.",
+  "author": {
+    "name": "kimi-plugin-cc"
+  }
+}
