@@ -1,5 +1,7 @@
 # kimi-plugin-cc
 
+[![中文](https://img.shields.io/badge/README-中文-blue)](README.zh-CN.md)
+
 Use Kimi from inside Claude Code for code reviews or to delegate tasks to Kimi.
 
 This plugin is for Claude Code users who want an easy way to start using Kimi from the workflow they already have.

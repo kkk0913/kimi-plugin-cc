@@ -1,5 +1,7 @@
 # kimi-plugin-cc
 
+[![English](https://img.shields.io/badge/README-English-blue)](README.md)
+
 在 Claude Code 中使用 Kimi 进行代码审查或委派任务给 Kimi。
 
 这个插件适合希望在已有 Claude Code 工作流中轻松使用 Kimi 的用户。
