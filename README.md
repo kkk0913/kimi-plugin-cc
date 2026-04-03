@@ -30,13 +30,13 @@ This plugin is for Claude Code users who want an easy way to start using Kimi fr
 Add the marketplace in Claude Code:
 
 ```
-/plugin marketplace add <your-org>/kimi-plugin-cc
+/plugin marketplace add kkk0913/kimi-plugin-cc
 ```
 
 Install the plugin:
 
 ```
-/plugin install kimi@<your-org>-kimi
+/plugin install kimi@kkk0913-kimi
 ```
 
 Reload plugins.
