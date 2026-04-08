@@ -38,7 +38,7 @@ Add the marketplace in Claude Code:
 Install the plugin:
 
 ```
-/plugin install kimi@kkk0913-kimi
+/plugin install kimi@kimi-plugin-cc
 ```
 
 Reload plugins.

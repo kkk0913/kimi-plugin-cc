@@ -1,7 +1,7 @@
 {
-  "name": "kimi-cc",
+  "name": "kimi-plugin-cc",
   "owner": {
-    "name": "kimi-plugin-cc"
+    "name": "kkk0913"
   },
   "metadata": {
     "description": "Kimi plugin for Claude Code — task delegation via kimi-cli Wire IPC.",
@@ -13,7 +13,7 @@
       "description": "Delegate code review and tasks from Claude Code to Kimi via kimi-cli.",
       "version": "0.1.0",
       "author": {
-        "name": "kimi-plugin-cc"
+        "name": "kkk0913"
       },
       "source": "./plugins/kimi"
     }
