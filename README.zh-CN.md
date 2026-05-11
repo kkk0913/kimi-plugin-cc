@@ -38,7 +38,7 @@
 安装插件：
 
 ```
-/plugin install kimi@kkk0913-kimi
+/plugin install kimi@kimi-plugin-cc
 ```
 
 重新加载插件。
